@@ -1,0 +1,1825 @@
+{
+  "report_name": "PO Invoice Verification Report",
+  "records": [
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00095",
+          "invoice_details": "MC2627KLINP00095",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00096",
+          "invoice_details": "MC2627KLINP00096",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00098",
+          "invoice_details": "MC2627KLINP00098",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/467789/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "PUNJAB",
+          "invoice_details": "Punjab [03]",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "CROWN WORLDWIDE PRIVATE LIMITED",
+          "invoice_details": "CROWN WORLDWIDE GROUP",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "03AABCM6882E1ZL",
+          "invoice_details": "03AABCM6882E1ZL",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "313532-0017546",
+          "invoice_details": "313532-0017546",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-07",
+          "invoice_details": "2026-04-01",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/469311/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Thrissur (Kerala)",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "KARIX MOBILE PRIVATE LIMITED",
+          "invoice_details": "Karix Mobile Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "2603026816",
+          "invoice_details": "2603026816",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-19",
+          "invoice_details": "2026-03-13",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/473562/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "M/S SENSEL TELEMATICS PRIVATE LIMITED",
+          "invoice_details": "Sensel Telematics Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "2026-27/SR/0246",
+          "invoice_details": "2026-27/SR/0246",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-04-29",
+          "invoice_details": "2026-05-06",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/459747/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DESK NINE PRIVATE LIMITED",
+          "invoice_details": "DESK NINE PRIVATE LIMITED",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "98289/2025-26",
+          "invoice_details": "98289/2025-26",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2025-12-31",
+          "invoice_details": "2026-02-28",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/478086/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "MADHU E P",
+          "invoice_details": "Madhu E.P",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MADHU04062026",
+          "invoice_details": "MADHU04062026",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-06-02",
+          "invoice_details": "2026-04-06",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/467789/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "WEST BENGAL",
+          "invoice_details": "West Bengal",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "CROWN WORLDWIDE PRIVATE LIMITED",
+          "invoice_details": "Crown Worldwide Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "19AABCM6882E1Z8",
+          "invoice_details": "19AABCM6882E1Z8",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "313525-0065347",
+          "invoice_details": "313525-0065347",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-07",
+          "invoice_details": "2026-04-01",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/476207/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "KL - Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "TATA TELE NXTGEN SOLUTIONS LIMITED",
+          "invoice_details": "TATA TELE NXTGEN SOLUTIONS LTD",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "20260532I164773",
+          "invoice_details": "202605321164773",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-18",
+          "invoice_details": "2026-05-03",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/455177/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "HEADLOAD WORKERS",
+          "invoice_details": "Head Loader's bill",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "47768 TO 47781",
+          "invoice_details": "47768 TO 47781",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2025-11-24",
+          "invoice_details": "2026-06-01",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477790/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KARNATAKA",
+          "invoice_details": "Karnataka",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "COVERT MANAGEMENT SERVICES PRIVATE LIMITED",
+          "invoice_details": "Covert Management Services Pvt Ltd.",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "29AABCM6882EQQQQ",
+          "invoice_details": "29AABCM6882EQQQQ",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "CMS25-26KAR2604",
+          "invoice_details": "CMS25-26KAR2604",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-30",
+          "invoice_details": "2026-03-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477790/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KARNATAKA",
+          "invoice_details": "Karnataka",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "COVERT MANAGEMENT SERVICES PRIVATE LIMITED",
+          "invoice_details": "Covert Management Services Pvt Ltd",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "29AABCM6882EQQQQ",
+          "invoice_details": "29AABCM6882EQQQQ",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "CMS25-26KAR2437",
+          "invoice_details": "CMS25-26KAR2437",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-30",
+          "invoice_details": "2026-02-19",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/475494/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "SHYLENDARA ELECTRICALS",
+          "invoice_details": "SHYLENDRA ELECTRICALS",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882E1DD",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "B2B-26-27-0090",
+          "invoice_details": "B2B-26-27-0090",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-12",
+          "invoice_details": "2026-05-18",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477636/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "ANDHRA PRADESH",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "ADV KOSURI PREM KRISHNA",
+          "invoice_details": "Prem Krishna Kosuri B.Com., LL.B Advocate",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "37AABCM6882E1ZA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "PKK/MF/10/2026",
+          "invoice_details": "PKK/MF/10/2026",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-28",
+          "invoice_details": "2026-05-28",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00094",
+          "invoice_details": "MC2627KLINP00094",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00093",
+          "invoice_details": "MC2627KLINP00093",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/467789/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "MAHARASHTRA",
+          "invoice_details": "Maharashtra[27]",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "CROWN WORLDWIDE PRIVATE LIMITED",
+          "invoice_details": "Crown Worldwide Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "313527-0018398",
+          "invoice_details": "313527-0018398",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-07",
+          "invoice_details": "2026-04-08",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477821/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00088",
+          "invoice_details": "MC2627KLINP00088",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-04-21",
+          "invoice_details": "2026-05-06",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477546/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "PRANAH AQUATICS",
+          "invoice_details": "PranahAquatics",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882E1DD",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "15",
+          "invoice_details": "15",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-28",
+          "invoice_details": "2026-06-02",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/468855/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "MODERN LIGHT HOUSE",
+          "invoice_details": "Modern Light House",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882617K",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "4128",
+          "invoice_details": "4128",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-17",
+          "invoice_details": "2026-05-28",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/475955/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "SADHBHAVANA COMMUNICATIONS PRIVATE LIMITED",
+          "invoice_details": "Sadhbhavana communications P Ltd",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882E1DD",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "SC/SL/26-27/4",
+          "invoice_details": "SC/SL/26-27/4",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-15",
+          "invoice_details": "2026-05-17",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/478203/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "TELANGANA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "SATHISH BOMMADENI",
+          "invoice_details": "B. SATHISH ADVOCATE",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "BS-MFL-25-2026",
+          "invoice_details": "BS-MFL-25-2026",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-06-03",
+          "invoice_details": "2026-06-03",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00149",
+          "invoice_details": "MC2627KLINP00149",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-15",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477573/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "YAVANIKA",
+          "invoice_details": "\u0d2f\u0d35\u0d28\u0d3f\u0d15 \u0d2b\u0d4d\u0d33\u0d4b\u0d31\u0d3f\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d & \u0d2b\u0d41\u0d33\u0d3e\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4b\u0d34\u0d4d\u200c\u0d38\u0d4d",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "1549",
+          "invoice_details": "1549",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-27",
+          "invoice_details": "2020-05-23",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477792/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KARNATAKA",
+          "invoice_details": "Karnataka",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "COVERT MANAGEMENT SERVICES PRIVATE LIMITED",
+          "invoice_details": "Covert Management Services Pvt Ltd",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "29AABCM6882EQQQQ",
+          "invoice_details": "29AABCM6882EQQQQ",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "CMS26-27KAR0068",
+          "invoice_details": "CMS26-27KAR0068",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-30",
+          "invoice_details": "2026-04-13",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/469311/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Thrissur (Kerala)",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "KARIX MOBILE PRIVATE LIMITED",
+          "invoice_details": "Karix Mobile Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "2604000202",
+          "invoice_details": "2604000202",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-19",
+          "invoice_details": "2026-04-07",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477818/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00027",
+          "invoice_details": "MC2627KLINP00027",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2025-11-28",
+          "invoice_details": "2026-04-07",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/459747/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DESK NINE PRIVATE LIMITED",
+          "invoice_details": "DESK NINE PRIVATE LIMITED",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "98863/2025-26",
+          "invoice_details": "98863/2025-26",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2025-12-31",
+          "invoice_details": "2026-03-31",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/459747/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DESK NINE PRIVATE LIMITED",
+          "invoice_details": "Desk Nine pvt. ltd.",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "100553/2026-27",
+          "invoice_details": "100553/2026-27",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2025-12-31",
+          "invoice_details": "2026-04-30",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/478203/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "TELANGANA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "SATHISH BOMMADENI",
+          "invoice_details": "B. SATHISH ADVOCATE",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "BS-MFL-27-2026",
+          "invoice_details": "BS-MFL-27-2026",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-06-03",
+          "invoice_details": "2026-03-06",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00148",
+          "invoice_details": "MC2627KLINP00148",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-15",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/463679/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "TELANGANA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "GOWTHAM SAI ENTERPRISES",
+          "invoice_details": "GOWTHAM SAI ENTERPRISES",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MANA/NOV/006",
+          "invoice_details": "MANA/NOV/006",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-02-02",
+          "invoice_details": "2026-03-10",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477790/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KARNATAKA",
+          "invoice_details": "Karnataka",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "COVERT MANAGEMENT SERVICES PRIVATE LIMITED",
+          "invoice_details": "Covert Management Services Pvt Ltd",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "29AABCM6882EQQQQ",
+          "invoice_details": "29AABCM6882EQQQQ",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "CMS25-26KAR2605",
+          "invoice_details": "CMS25-26KAR2605",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-30",
+          "invoice_details": "2026-03-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00099",
+          "invoice_details": "MC2627KLINP00099",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/467789/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KARNATAKA",
+          "invoice_details": "Karnataka[29]",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "CROWN WORLDWIDE PRIVATE LIMITED",
+          "invoice_details": "CROWN WORLDWIDE GROUP",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "29AABCM6882EQQQQ",
+          "invoice_details": "29AABCM6882EQQQQ",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "313523-0050027",
+          "invoice_details": "313523-0050027",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-07",
+          "invoice_details": "2026-04-01",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/467789/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala [32]",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "CROWN WORLDWIDE PRIVATE LIMITED",
+          "invoice_details": "CROWN WORLDWIDE GROUP",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882E1DD",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "313544-0014745",
+          "invoice_details": "313544-0014745",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-07",
+          "invoice_details": "2026-04-01",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/468484/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DREAM HOME BUILDERS",
+          "invoice_details": "DREAM HOME BUILDERS",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882E1DD",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "006/26-27",
+          "invoice_details": "006/26-27",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-14",
+          "invoice_details": "2026-06-03",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477790/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KARNATAKA",
+          "invoice_details": "Karnataka",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "COVERT MANAGEMENT SERVICES PRIVATE LIMITED",
+          "invoice_details": "Covert Management Services Pvt Ltd",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "29AABCM6882EQQQQ",
+          "invoice_details": "29AABCM6882EQQQQ",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "CMS25-26KAR2438",
+          "invoice_details": "CMS25-26KAR2438",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-30",
+          "invoice_details": "2026-02-19",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/473127/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "ANDHRA PRADESH",
+          "invoice_details": "AP",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "B S BAJI RECOVERY AGENCIES",
+          "invoice_details": "B.S.BAJI RECOVERY AGENCIES",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "37AABCM6882E1ZA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "BSBRA/008",
+          "invoice_details": "BSBRA/008",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-04-24",
+          "invoice_details": "2026-05-05",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00147",
+          "invoice_details": "MC2627KLINP00147",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-15",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "MC2627KLINP00097",
+          "invoice_details": "MC2627KLINP00097",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-14",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/467789/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "TELANGANA",
+          "invoice_details": "Telangana[36]",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "CROWN WORLDWIDE PRIVATE LIMITED",
+          "invoice_details": "Crown Worldwide Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "313526-0020605",
+          "invoice_details": "313526-0020605",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-07",
+          "invoice_details": "2026-04-09",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/467789/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala [32]",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "CROWN WORLDWIDE PRIVATE LIMITED",
+          "invoice_details": "CROWN WORLDWIDE GROUP",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882E1DD",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "313524-0073384",
+          "invoice_details": "313524-0073384",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-07",
+          "invoice_details": "2026-04-01",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477792/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KARNATAKA",
+          "invoice_details": "Karnataka",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "COVERT MANAGEMENT SERVICES PRIVATE LIMITED",
+          "invoice_details": "Covert Management Services Pvt Ltd",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "29AABCM6882EQQQQ",
+          "invoice_details": "29AABCM6882EQQQQ",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "CMS26-27KAR0069",
+          "invoice_details": "CMS26-27KAR0069",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-30",
+          "invoice_details": "2026-04-13",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/471985/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "THRIPRAYAR THEVARKU SWIKARANA SAMITHI CHIRAKKAL",
+          "invoice_details": "തൃപ്രയാർ തേവർക്ക് സ്വീകരണ സമിതി ചിറയ്ക്കൽ",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "118",
+          "invoice_details": "118",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-04-17",
+          "invoice_details": "2026-06-04",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/473562/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "M/S SENSEL TELEMATICS PRIVATE LIMITED",
+          "invoice_details": "Sensel Telematics Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-04-29",
+          "invoice_details": "2026-05-31",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/478203/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "TELANGANA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "SATHISH BOMMADENI",
+          "invoice_details": "B. SATHISH ADVOCATE",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "BS-MFL-26-2026",
+          "invoice_details": "BS-MFL-26-2026",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-06-03",
+          "invoice_details": "2026-03-06",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/476406/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "ANNIE C D(MOTHER TOUCH)",
+          "invoice_details": "MOTHER TOUCH EDUCATIONAL INSTITUTION",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "nan",
+          "status": "NOT FOUND"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "123",
+          "invoice_details": "123",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-19",
+          "invoice_details": "2026-05-30",
+          "status": "TRUE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477785/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "32-Kerala",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "DENTSU MEDIA INDIA PRIVATE LIMITED",
+          "invoice_details": "Dentsu Media India Private Limited",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-16",
+          "invoice_details": "2026-05-15",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/470052/2025-26",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "KERALA",
+          "invoice_details": "KERALA",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "BLUE STAR LIMITED",
+          "invoice_details": "BLUE STAR LIMITED",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882E1DD",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MISMATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-03-30",
+          "invoice_details": "2026-03-30",
+          "status": "FALSE"
+        }
+      ]
+    },
+    {
+      "purchase_order_id": "PO/01/477226/2026-27",
+      "checks": [
+        {
+          "field": "State",
+          "po_details": "MAHARASHTRA",
+          "invoice_details": "Maharashtra (27)",
+          "status": "MATCH"
+        },
+        {
+          "field": "Vendor",
+          "po_details": "PERFIOS SOFTWARE SOLUTIONS PRIVATE LIMITED",
+          "invoice_details": "PERFIOS SOFTWARE SOLUTIONS PRIVATE LIMITED",
+          "status": "MATCH"
+        },
+        {
+          "field": "Customer GSTIN",
+          "po_details": "32AABCM6882IIIIII",
+          "invoice_details": "32AABCM6882IIIIII",
+          "status": "MATCH"
+        },
+        {
+          "field": "Invoice No",
+          "po_details": "25-26/23712",
+          "invoice_details": "25-26/23712",
+          "status": "MATCH"
+        },
+        {
+          "field": "PO < Invoice",
+          "po_details": "2026-05-26",
+          "invoice_details": "2026-03-31",
+          "status": "FALSE"
+        }
+      ]
+    }
+  ]
+}
